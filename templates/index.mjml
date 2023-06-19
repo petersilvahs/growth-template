@@ -1,0 +1,50 @@
+<mjml>
+  <mj-body>
+
+    <mj-section background-color="#008E5A">
+      <mj-column>
+        <mj-image src="https://github.com/petersilvahs/growth-template/assets/75394512/b550a882-c063-4d6d-ae1d-e5f1abe0ffc5" width="100px" align="left" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#008E5A">
+      <mj-column width="400px">
+        <mj-image src="https://github.com/petersilvahs/growth-template/assets/75394512/55e41598-6b89-4955-b742-a74d27305daa" border-radius="10px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text>
+          {{Cliente}}
+        </mj-text>
+        <mj-text>
+          Economizar até R$ 250 com produtos e serviços do dia a dia parece até um sonho, mas com Stone Clube você pode! A Stone te escolheu, de forma exclusiva, para conhecer o primeiro programa de benefícios pensado para o seu negócio.
+        </mj-text>
+        <mj-text>
+          É vantagem atrás de vantagem, e você não precisa se preocupar com pontos, é só aproveitar todos os benefícios da categoria que escolher. Só com a conta de luz do seu negócio, você pode economizar até R$ 2.400 por ano! o desconto especial, escolha um combo e economize na sua rotina!
+        </mj-text>
+        <mj-button background-color="#008E5A" border-radius="20px">Conhecer o Stone Clube </mj-button>
+    </mj-section>
+
+    <mj-section background-color="#F2F4F7">
+      <mj-column width="500px">
+        <mj-text>
+          Confira quais são as outras economias que você pode ter no seu dia a dia
+        </mj-text>
+    </mj-section>
+
+
+    <mj-section background-color="#F2F4F7">
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
