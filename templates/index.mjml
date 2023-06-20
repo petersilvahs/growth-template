@@ -92,13 +92,13 @@
           <mj-text>
             Regiões Metropolitanas
           </mj-text>
-          <mj-text>
+          <mj-text font-weight="bold">
             3004-9680
           </mj-text>
           <mj-text>
             Outras Regiões
           </mj-text>
-          <mj-text>
+          <mj-text font-weight="bold">
             0800 326 0506
           </mj-text>
         </mj-column>
