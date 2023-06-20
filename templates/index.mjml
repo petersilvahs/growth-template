@@ -24,7 +24,7 @@
         <mj-text>
           É vantagem atrás de vantagem, e você não precisa se preocupar com pontos, é só aproveitar todos os benefícios da categoria que escolher. Só com a conta de luz do seu negócio, você pode economizar até R$ 2.400 por ano! o desconto especial, escolha um combo e economize na sua rotina!
         </mj-text>
-        <mj-button background-color="#008E5A" border-radius="20px">Conhecer o Stone Clube </mj-button>
+        <mj-button background-color="#008E5A" border-radius="20px" font-weight="bold">Conhecer o Stone Clube </mj-button>
     </mj-section>
 
     <mj-section background-color="#F2F4F7">
@@ -34,7 +34,6 @@
         </mj-text>
     </mj-section>
 
-
     <mj-section background-color="#F2F4F7">
       <mj-column>
         <mj-image width="100px" src=""></mj-image>
@@ -46,5 +45,79 @@
         <mj-image width="100px" src=""></mj-image>
       </mj-column>
     </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column width="500px">
+        <mj-text>
+          Funciona assim:
+        </mj-text>
+        <mj-button background-color="#008E5A" border-radius="20px" font-weight="bold">Quero economizar</mj-button>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text font-weight="bold">
+          Abraços,
+        </mj-text>
+        <mj-text>
+          Time Stone
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4F7">
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image width="100px" src=""></mj-image>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F2F4F7">
+      <mj-group>
+        <mj-column>
+          <mj-text>
+            Dúvidas? Acesse nossa Central de Ajuda.
+          </mj-text>
+          <mj-text>
+            Regiões Metropolitanas
+          </mj-text>
+          <mj-text font-weight="bold">
+            3004-9680
+          </mj-text>
+          <mj-text>
+            Outras Regiões
+          </mj-text>
+          <mj-text font-weight="bold">
+            0800 326 0506
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group>
+        <mj-column>
+          <mj-text>
+            Acesse o chat
+          </mj-text>
+          <mj-text>
+            Envie um WhatsApp
+          </mj-text>
+          <mj-text>
+            meajuda@stone.com.br
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
   </mj-body>
 </mjml>
